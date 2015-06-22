@@ -20,30 +20,6 @@ to use whatever language your colleagues are using,
 so that you can share your work with them easily,
 and to use that language *well*.
 
-We are interested in understanding the relationship between the weather and the
-number of mosquitos occuring in a particular year so that we can plan mosquito
-control measures accordingly. The data we have to address this problem comes from the local government
-and are stored in tables in [comma-separated values](reference.html#comma-separated-values) (CSV)
-files. Each file holds the data for a single location, each row holds the information for a single year
-at that location, and the columns hold the data on both mosquito numbers and the
-average temperature and rainfall from the beginning of mosquito breeding season.
-The first few rows of our first file look like:
-
----
-year,temperature,rainfall,mosquitos
-2001,87,222,198
-2002,72,103,105
-2003,77,176,166
----
-
-We want to:
-
-*   load that data into memory,
-*   calculate the average inflammation per day across all patients, and
-*   plot the result.
-
-To do all that, we'll have to learn a little bit about programming.
-
 > ## Prerequisites {.prereq}
 >
 > Learners need to understand the concepts of files and directories
@@ -67,8 +43,8 @@ To do all that, we'll have to learn a little bit about programming.
 
 ## Topics
 
-1.  [Python, IPython, IPython Notebooks](https://github.com/qjcg/2015-06-22-caltech-python-1/notebooks/blob/0-intro-python.ipynb)
-1.  [Analyzing Mosquito Data](https://github.com/qjcg/2015-06-22-caltech-python-1/notebooks/blob/1-load-plot-data.ipynb)
+1.  [Python, IPython, IPython Notebooks](https://github.com/qjcg/2015-06-22-caltech-python-1/blob/gh-pages/notebooks/0-intro-python.ipynb)
+1.  [Analyzing Mosquito Data](https://github.com/qjcg/2015-06-22-caltech-python-1/blob/gh-pages/notebooks/1-load-plot-data.ipynb)
 2.  [Repeating Actions with Loops](02-loop.html)
 3.  [Storing Multiple Values in Lists](03-lists.html)
 4.  [Analyzing Data from Multiple Files](04-files.html)
