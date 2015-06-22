@@ -72,10 +72,6 @@ To do all that, we'll have to learn a little bit about programming.
 4.  [Analyzing Data from Multiple Files](04-files.html)
 5.  [Making Choices](05-cond.html)
 6.  [Creating Functions](06-func.html)
-7.  [Errors and Exceptions](07-errors.html)
-8.  [Defensive Programming](08-defensive.html)
-9.  [Debugging](09-debugging.html)
-10.  [Command-Line Programs](10-cmdline.html)
 
 
 ## Other Resources
