@@ -47,7 +47,6 @@ and to use that language *well*.
 1.  [Analyzing Mosquito Data](https://github.com/qjcg/2015-06-22-caltech-python-1/blob/gh-pages/notebooks/1-load-plot-data.ipynb)
 2.  [Repeating Actions with Loops](02-loop.html)
 3.  [Storing Multiple Values in Lists](03-lists.html)
-4.  [Analyzing Data from Multiple Files](04-files.html)
 5.  [Making Choices](05-cond.html)
 6.  [Creating Functions](06-func.html)
 
