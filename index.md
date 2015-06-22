@@ -46,6 +46,7 @@ and to use that language *well*.
 1.  [Python, IPython, IPython Notebooks](https://github.com/qjcg/2015-06-22-caltech-python-1/blob/gh-pages/notebooks/0-intro-python.ipynb)
 1.  [Analyzing Mosquito Data](https://github.com/qjcg/2015-06-22-caltech-python-1/blob/gh-pages/notebooks/1-load-plot-data.ipynb)
 1.  [Modularization and Documentation](https://github.com/qjcg/2015-06-22-caltech-python-1/blob/gh-pages/notebooks/2-modularization-documentation.ipynb)
+1.  [Making Choices](https://github.com/qjcg/2015-06-22-caltech-python-1/blob/gh-pages/notebooks/4-making-choices.ipynb)
 1.  [Looping](https://github.com/qjcg/2015-06-22-caltech-python-1/blob/gh-pages/notebooks/3-loop.ipynb)
 
 
