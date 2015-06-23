@@ -51,7 +51,6 @@ and to use that language *well*.
 1.  [Lists](https://github.com/qjcg/2015-06-22-caltech-python-1/blob/gh-pages/notebooks/3-lists.ipynb)
 1.  [Making Choices](https://github.com/qjcg/2015-06-22-caltech-python-1/blob/gh-pages/notebooks/4-making-choices.ipynb)
 1.  [Looping](https://github.com/qjcg/2015-06-22-caltech-python-1/blob/gh-pages/notebooks/5-loop.ipynb)
-1.  [Modularization and Documentation](https://github.com/qjcg/2015-06-22-caltech-python-1/blob/gh-pages/notebooks/2-modularization-documentation.ipynb)
 
 
 ## Other Resources
