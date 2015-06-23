@@ -33,7 +33,7 @@ and to use that language *well*.
 > You need to download some files to follow this lesson:
 >
 > 1. Save [notebooks.zip](./notebooks.zip) to your desktop.
-> 1. If it's not unzipped yet, double-click on it to unzip it. You should end up with a new folder called `data`.
+> 1. If it's not unzipped yet, double-click on it to unzip it. You should end up with a new folder called `notebooks`.
 > 1. You can access this folder from the Unix shell with:
 >
 > ~~~ {.input}
